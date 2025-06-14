@@ -1,0 +1,1 @@
+// Component for uploading and displaying avatar

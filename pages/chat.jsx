@@ -1,0 +1,1 @@
+// Chat component with avatar, animation, and realistic response flow
